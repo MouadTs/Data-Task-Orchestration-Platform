@@ -21,7 +21,7 @@ Below are screenshots of the application running locally (Backend + Frontend).
 ![Workflows](screenshots/workflows.jpeg)
 
 ### 📊 Backend Logs (Running Workflow)
-![Backend Logs](screenshots/backend-logs.jpeg)
+![Backend Logs](screenshots/backend-logs%20.jpeg)
 
 > 📌 Screenshots are stored in the `screenshots/` folder at the root of the repository.
 
